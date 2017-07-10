@@ -1,0 +1,2 @@
+# RestFulScala
+Scala REST Service
